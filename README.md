@@ -15,5 +15,6 @@ This repository contains the source code for the Rentiz landing page, a responsi
 
 Feel free to contribute by submitting issues or pull requests. Make sure to follow the project's coding style and conventions.
 
-![image](![image](https://github.com/OlinykFS/Rentiz-Landing/assets/173060818/bb1501b1-6343-4faa-8142-7b2a0236d845)
-)
+![image](https://github.com/OlinykFS/Rentiz-Landing/assets/173060818/e42f5322-c4f7-4904-a9f1-afcbb4105418)
+
+
