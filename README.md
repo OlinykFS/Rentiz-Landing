@@ -1,4 +1,4 @@
-[# [Rentiz Landing Page](https://olinykfs.github.io/Rentiz-Landing/)
+# [Rentiz Landing Page](https://olinykfs.github.io/Rentiz-Landing/)
 
 This repository contains the source code for the Rentiz landing page, a responsive web page built using HTML, CSS (with SCSS), JavaScript, Swiper.js for carousel functionality.
 
