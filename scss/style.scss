@@ -364,7 +364,7 @@ body {
 .block-filter__icon {
 	width: 10px;
 	height: 7px;
-	background: url("../img/icons/arrow-dropdown.svg") center bottom no-repeat;
+	background: url('../img/icons/arrow-dropdown.svg') center bottom no-repeat;
 	transition: transform 0.2s;
 	&._active {
 		transform: rotate(180deg);
